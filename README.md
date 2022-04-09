@@ -2,6 +2,14 @@
 안녕하세요!  
 컬리에서 SRE로 함께하고 있는 이승윤 입니다.  
 
+여러 사람과 의견과 생각을 나누는 것을 좋아하고,  
+개발에 대한 견해와 경험을 늘리기 위해 '코딩이랑 무관합니다만,' 이라는 페이스북 그룹에서 2018년부터 지금까지 운영진으로 활동하고 있습니다.  
+
+회사와 학교를 병행하여 인하대학교 소프트웨어융합공학과 2학년에 재학중으로,  
+기초를 탄탄히 다지기 위해 다방면으로 노력중입니다.  
+
+읽어주셔서 감사합니다. :)
+
 ## My skills are...
 ### Programming Language
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
