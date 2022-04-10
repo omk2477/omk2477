@@ -26,6 +26,10 @@
 ## I'm interested in...
 ### Programming Language
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+
+### Cloud
+<img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/>
+
 ### Devops & SRE
 <img src="https://img.shields.io/badge/Gitgub Actions-2088FF?style=flat-square&logo=Github Actions&logoColor=white"/> <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white"/>
 
